@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @tsah
+- I'm currently employed as a Tech lead at Alike Health 
+- I’m interested in Backend development, Devops, Clean code, CICD, Functional programming, Scala, Python
+- I’m currently learning Rust, Haskell, Distributed Computing
+- You can reach me at tsah.weiss@gmail.com
